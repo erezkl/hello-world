@@ -1,2 +1,3 @@
 # hello-world
 A first time trial in github
+Hi. I am Erez. A retired engineer now starting to play and explore the world of IoT firmware development.... 
